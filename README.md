@@ -1,4 +1,4 @@
-# Recommend_NEW
+# Bookverse
 ## MesoHacks2022 Project
 ### The purpose of this book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
 
