@@ -25,7 +25,7 @@
 Clone the project
 
 bash
-  git clone https://github.com/Kedyi/recommend-new.git
+  git clone https://github.com/divyamishra1908/Bookverse.git
 
 
 Go to the project directory
