@@ -3,7 +3,7 @@
 ### The purpose of this book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
 
 # Properties:
-### "Recommend_NEW" can take into account many parameters like book content and book quality by filtering user reviews.
+### "Bookverse" can take into account many parameters like book content and book quality by filtering user reviews.
 
 
 ## Functionalities and Features:
